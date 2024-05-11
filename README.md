@@ -1,3 +1,3 @@
-# Template
+# Elysia Playground
 
-方便后续其他项目使用
+用于实践 Elysia 以及 深入使用
